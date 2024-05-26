@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: var(--White);
+    padding: 2rem;
+    border-radius: 6px;
+    letter-spacing: -0.05rem;
+}
+
+.omlette{
+    border-radius: 6px;
+}
+

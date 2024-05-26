@@ -1,0 +1,28 @@
+.igd__content{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.igd__list{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    list-style: outside;
+    /* border: 1px solid #000; */
+    padding: 1rem;
+}
+
+.igd__li{
+    letter-spacing: 0.0025rem;
+    font-weight: 400;
+    color: var(--Wenge-Brown);
+    /* border: 1px solid #000; */
+    padding-left: 1.5rem;
+}
+
+.igd__title{
+    font-size: 1.5rem;
+    padding: 0;
+    color: var(--Wenge-Brown);
+}

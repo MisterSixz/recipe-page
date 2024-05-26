@@ -1,0 +1,31 @@
+.prepare__box{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: var(--Rose-White);
+    padding: 2rem;
+    border-radius: 6px;
+}
+
+.prepare__title{
+    font-size: 1rem;
+    letter-spacing: 0.025rem;
+    color: var(--Dark-Raspberry);
+    font-weight: 600;
+}
+
+.prepare__ul{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    list-style: outside;
+    /* border: 1px solid #000; */
+}
+
+.prepare__li{
+    letter-spacing: 0.0025rem;
+    font-weight: 400;
+    color: var(--Wenge-Brown);
+    /* border: 1px solid #000; */
+    padding-left: 1.5rem;
+}

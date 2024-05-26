@@ -1,0 +1,9 @@
+import '../styles/style.css';
+import '../styles/modern-nomalize.css';
+import '../styles/utills.css';
+import '../styles/components/card.css';
+import '../styles/components/menu.css';
+import '../styles/components/prepare.css';
+import '../styles/components/igd.css';
+import '../styles/components/instruction.css';
+import '../styles/components/nut.css';
